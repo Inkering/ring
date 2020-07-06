@@ -1,2 +1,2 @@
-# ring
+# ring ⃘
 inkeRING: a modern webring
