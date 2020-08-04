@@ -5,6 +5,12 @@ body {
     margin: 25px;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh
+}
+
 h1,h2,h3,h4,h5 {
     font-family: 'Goudy Bookletter 1911', serif;
 }
@@ -65,7 +71,12 @@ hr {
 }
 
 .ring {
-    height: 30rem;
+    height: 40rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
 }
 
 .explainer {
