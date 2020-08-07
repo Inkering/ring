@@ -42,6 +42,8 @@ hr {
     border-top: 2px solid black;
 }
 
+.hidden { display: none }
+
 .titleText {
     width: 35rem; 
     flex: none
