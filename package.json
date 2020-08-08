@@ -1,0 +1,25 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "description": "inkeRING: a modern webring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inkering/ring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inkering/ring/issues"
+  },
+  "homepage": "https://github.com/Inkering/ring#readme",
+  "dependencies": {
+    "normalize-url": "^5.1.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
