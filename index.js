@@ -62,7 +62,7 @@ onceReady(() => {
         let goBack = document.querySelector('.go-back')
 
         goBack.classList.remove('hidden')
-        goBack.innerText += ' to ' + params.from
+        goBack.innerText += ' to ' + prettifyUrl(params.from)
         goBack.href = current_site
 
         let goForward = document.querySelector('.go-forward')
