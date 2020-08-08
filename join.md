@@ -14,6 +14,9 @@ You can also link some other way, whatever you like! Thanks for joining us in th
 
 `https://ring.inkering.com/?from=<YOUR_WEBSITE>&to=next` will automatically go to the next website in the ring (just replace `<YOUR_WEBSITE>` with your actual URL)
 
-``https://ring.inkering.com/?from=<YOUR_WEBSITE>&to=prev` will automatically go to the previous website in the ring (just replace `<YOUR_WEBSITE>` with your actual URL)`
+`https://ring.inkering.com/?from=<YOUR_WEBSITE>&to=prev` will automatically go to the previous website in the ring (just replace `<YOUR_WEBSITE>` with your actual URL)`
+
+
+## If you need some help
 
 Sam and Dieter, the first two sites in the webring, care for the list and the code. If you need some help, you could reach out to us!
