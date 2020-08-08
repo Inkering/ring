@@ -20,4 +20,4 @@ You can also link some other way, whatever you like! Thanks for joining us in th
 
 ## If you need some help
 
-Sam and Dieter, the first two sites in the webring, care for the list and the code. If you need some help, you could reach out to us!
+We, Sam and Dieter (who have the first two sites in the webring), care for the list and the code. If you need some help, you could reach out to us!
