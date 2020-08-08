@@ -36,6 +36,8 @@ header {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
+    width: 100%;
+    margin-top: 1rem;
 }
 
 hr {
@@ -45,7 +47,7 @@ hr {
 .hidden { display: none }
 
 .titleText {
-    width: 35rem; 
+    margin-right: 2rem; 
     flex: none
 }
 
@@ -92,7 +94,15 @@ footer {
 /* @media all and (max-width: 980px) { ... } */
 /* @media all and (max-width: 736px) { ... } */
 @media all and (max-width: 480px) {
+    ul { padding-left: 0 }
+    .titleEnd { margin-left: 0.2rem }
 
+    h1 {
+        font-size: 1.4rem;
+        margin-left: 2rem;
+    }
+
+    p, a { font-size: 1.1rem }
 }
 @media all and (max-width: 950px) {
     header {
