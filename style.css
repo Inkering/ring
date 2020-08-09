@@ -69,7 +69,7 @@ hr {
 }
 
 .ring {
-    height: 40rem;
+    min-height: 33vh;
 }
 
 footer {
