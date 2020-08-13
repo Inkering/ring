@@ -93,7 +93,7 @@ footer {
 /* @media all and (max-width: 1280px) { ...} */
 /* @media all and (max-width: 980px) { ... } */
 /* @media all and (max-width: 736px) { ... } */
-@media all and (max-width: 480px) {
+@media all and (max-width: 600px) {
     ul { padding-left: 0 }
     .titleEnd { margin-left: 0.2rem }
 
